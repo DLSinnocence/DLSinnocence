@@ -7,8 +7,6 @@
 - ~~VibeCoding网页前端~~
 - 业余策划&小说作者
 - 前oier
-<div align="left">
-    <img  src="https://github-readme-stats.vercel.app/api?username=dlsinnocence&show_icons=true&theme=dracula&hide=stars" />
-</div>
+![Metrics](/github-metrics.svg)
 
 
