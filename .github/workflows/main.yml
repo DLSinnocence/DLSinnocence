@@ -27,6 +27,6 @@ jobs:
 
           # Options
           user: DLSINNOCENCE
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
