@@ -7,6 +7,7 @@
 - ~~VibeCoding网页前端~~
 - 业余策划&小说作者
 - 前oier
+- 由于太菜以上都不精通
 
 ![Metrics](/github-metrics.svg)
 
