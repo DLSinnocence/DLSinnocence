@@ -9,6 +9,8 @@
 - 前oier
 - 由于太菜以上都不精通
 
+[我的博客](https://dlsinnocence.top/)
+
 ![Metrics](/github-metrics.svg)
 
 
